@@ -1,0 +1,10 @@
+Date: 14/12/2022
+Time: 21:58
+Phone Number: +919483364954
+Message: Just testing pywhatkit
+--------------------
+Date: 14/12/2022
+Time: 22:1
+Phone Number: +919483364954
+Message: Just testing pywhatkit
+--------------------
