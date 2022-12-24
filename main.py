@@ -1,10 +1,10 @@
 import pyautogui
 import time
-time.sleep(4)
+time.sleep(5)
 
 count=0
 
-while count<=50:
-  pyautogui.typewrite("Breakfast time!!")
+while count<=200:
+  pyautogui.typewrite("")
   pyautogui.press("enter")
   count=count+1
